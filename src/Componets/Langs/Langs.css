@@ -1,0 +1,34 @@
+#Langs{
+  overflow: hidden;
+  width: 100vw;
+  max-width: 65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  margin: 0 auto;
+}
+.LangTitle{
+  font-size: 3rem;
+  font-weight: 600;
+  padding-top: 3rem;
+  margin-bottom: 1rem;
+}
+.LangDesc{
+  font-size: 1rem;
+  font-weight: 300;
+  max-width: 60rem;
+  padding: 0 1rem;
+}
+.LangImgs{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.LangImg{
+  height: 7rem;
+  width: 7rem;
+  margin: 0.5rem;
+}
