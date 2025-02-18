@@ -97,6 +97,10 @@
   width: 3rem;
 }
 
+.ListItem a{
+  color: white;
+}
+
 @media screen and (max-width:720px){
   .desktopMenu{
     display: none;

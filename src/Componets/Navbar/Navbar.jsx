@@ -158,16 +158,15 @@ const Navbar = () => {
         >
           Contact
         </Link>
-        <Link
-          activeClass="active"
-          rel="stylesheet"
+        <a
           href={resume}
           download="Resume"
+          activeClass="active"
           className="ListItem"
           onClick={() => setShowMenu(!showMenu)}
         >
-          <a href="">Resume</a>
-        </Link>
+          Resume
+        </a>
       </div>
     </nav>
   );
