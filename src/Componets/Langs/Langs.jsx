@@ -11,7 +11,7 @@ const Langs = () => {
   return (
     <section id="Langs">
       <span className="LangTitle">Skills</span>
-      <span className="LangDesc">This are My Programing SKills</span>
+      <span className="LangDesc">These are My Programing SKills</span>
       <div className="langImgs">
         <img src={htmllogo} alt="" className="LangImg" />
         <img src={csslogo} alt="" className="LangImg" />
