@@ -2,6 +2,8 @@ import "../Navbar/Navbar.css";
 import logo from "../../assets/logo.png";
 import menu from "../../assets/menu.png";
 import contactImg from "../../assets/contact.png";
+import download from "../../assets/download-logo.png";
+import resume from "../../assets/Satvik-Kambli.pdf";
 import { Link } from "react-scroll";
 import { useState } from "react";
 const Navbar = () => {
@@ -76,6 +78,9 @@ const Navbar = () => {
           Contact Me
         </div>
       </Link>
+      <a href={resume} download="Resume">
+        <img src={download} alt="" className="download" />
+      </a>
       <img
         src={menu}
         alt=""
@@ -152,6 +157,16 @@ const Navbar = () => {
           onClick={() => setShowMenu(!showMenu)}
         >
           Contact
+        </Link>
+        <Link
+          activeClass="active"
+          rel="stylesheet"
+          href={resume}
+          download="Resume"
+          className="ListItem"
+          onClick={() => setShowMenu(!showMenu)}
+        >
+          <a href="">Resume</a>
         </Link>
       </div>
     </nav>

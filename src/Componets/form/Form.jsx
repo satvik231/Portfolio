@@ -3,6 +3,7 @@ import { useRef } from "react";
 import insta from "../../assets/instagram.png";
 import linkedin from "../../assets/linkedin.png";
 import github from "../../assets/Github-Logo.png";
+import netlify from "../../assets/Netlify_Logo.png";
 import emailjs from "@emailjs/browser";
 const Form = () => {
   const form = useRef();
@@ -51,6 +52,7 @@ const Form = () => {
           <img src={insta} alt="" className="Link" />
           <img src={linkedin} alt="" className="Link" />
           <img src={github} alt="" className="Link" />
+          <img src={netlify} alt="" className="Link" />
         </div>
       </form>
     </section>

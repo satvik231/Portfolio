@@ -92,11 +92,19 @@
   border-radius: 1rem;
 }
 
+.download{
+  height: 3rem;
+  width: 3rem;
+}
+
 @media screen and (max-width:720px){
   .desktopMenu{
     display: none;
   }
   .desktopMenuBtn{
+    display: none;
+  }
+  .download{
     display: none;
   }
   .mobmenu{
