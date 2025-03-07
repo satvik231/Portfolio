@@ -42,9 +42,7 @@ Welcome to my personal portfolio! This project is built using **HTML, CSS, JavaS
 
 You can deploy this portfolio on:  
 
-- **GitHub Pages**  
-- **Vercel**  
-- **Netlify**  
+- https://portfolio-satvik231s-projects.vercel.app
 
 ## 🤝 Contributing  
 
@@ -55,8 +53,4 @@ If you'd like to contribute or suggest improvements, feel free to fork the repo 
 If you have any questions, feel free to reach out:  
 
 - **Email:** satvikkambli@gmail.com  
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [Your GitHub](https://github.com/your-username)  
-
----
-
+- **LinkedIn:** https://www.linkedin.com/in/satvikkambli?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
