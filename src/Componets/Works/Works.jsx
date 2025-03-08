@@ -1,5 +1,6 @@
 import "../Works/Works.css";
 import project1 from "../../assets/Project1.png";
+import project2 from "../../assets/Gemini.png";
 const Works = () => {
   return (
     <section id="Works">
@@ -14,8 +15,8 @@ const Works = () => {
         <a href="https://github.com/satvik231" target="_blank">
           <img src={project1} alt="" className="workImg" />
         </a>
-        <a href="https://github.com/satvik231" target="_blank">
-          <img src={project1} alt="" className="workImg" />
+        <a href="https://github.com/satvik231/Gemini_Clone" target="_blank">
+          <img src={project2} alt="" className="workImg" />
         </a>
       </div>
     </section>
