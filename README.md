@@ -1,8 +1,56 @@
-# React + Vite
+# Portfolio Project  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This project is built using **HTML, CSS, JavaScript, and React.js** to showcase my skills, projects, and experience in web development.  
 
-Currently, two official plugins are available:
+## 🚀 Features  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Design** – Optimized for various screen sizes.  
+- **Smooth Animations** – Engaging UI animations for a dynamic experience.  
+- **Projects Showcase** – A section displaying my featured work.  
+- **Contact Form** – Users can reach out via a functional contact form.  
+- **Dark Mode** – Toggle between light and dark themes.  
+
+## 🛠️ Technologies Used  
+
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Styling:** CSS, Styled Components (if used)  
+- **Animations:** CSS Animations, Framer Motion (if applicable)  
+
+
+
+## 🔧 Installation & Setup  
+
+1. **Clone the repository:**  
+   ```sh
+   git clone https://github.com/your-username/portfolio-project.git
+   ```
+2. **Navigate to the project folder:**  
+   ```sh
+   cd portfolio-project
+   ```
+3. **Install dependencies:**  
+   ```sh
+   npm install
+   ```
+4. **Start the development server:**  
+   ```sh
+   npm start
+   ```
+   The app will be available at `http://localhost:3000/`.  
+
+## 📌 Deployment  
+
+You can deploy this portfolio on:  
+
+- https://portfolio-satvik231s-projects.vercel.app
+
+## 🤝 Contributing  
+
+If you'd like to contribute or suggest improvements, feel free to fork the repo and submit a pull request.  
+
+## 📬 Contact  
+
+If you have any questions, feel free to reach out:  
+
+- **Email:** satvikkambli@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/satvikkambli?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
